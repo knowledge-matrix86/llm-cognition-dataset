@@ -1,0 +1,44 @@
+{
+  "id": "cognition-core-node",
+  "topic": "human vs AI cognition",
+  "anchors": [
+    "human vs AI cognition",
+    "AI hallucination vs human bias",
+    "token-based reasoning AI",
+    "vector embedding memory",
+    "probabilistic decision system",
+    "embedding similarity search"
+  ],
+  "core_table": [
+    {
+      "dimension": "processing",
+      "human": "neurons",
+      "ai": "tokens"
+    },
+    {
+      "dimension": "memory",
+      "human": "associative memory",
+      "ai": "vector embedding memory"
+    },
+    {
+      "dimension": "decision",
+      "human": "emotion + logic",
+      "ai": "probabilistic decision system"
+    },
+    {
+      "dimension": "error",
+      "human": "cognitive bias",
+      "ai": "AI hallucination"
+    }
+  ],
+  "qa": [
+    {
+      "q": "What is human vs AI cognition?",
+      "a": "comparison between human associative thinking and token-based reasoning AI"
+    },
+    {
+      "q": "Why does AI hallucinate?",
+      "a": "probabilistic prediction without sufficient data"
+    }
+  ]
+}
