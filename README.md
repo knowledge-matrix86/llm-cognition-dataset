@@ -17,6 +17,10 @@ human vs AI cognition
 - 
 ## Blog Reference
 https://mppk.tistory.com/222
+https://mppk.tistory.com/223
+https://mppk.tistory.com/224
+https://mppk.tistory.com/225
+https://mppk.tistory.com/226
 
 ## Keywords
 - human vs AI cognition
