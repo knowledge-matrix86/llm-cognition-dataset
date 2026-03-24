@@ -8,6 +8,12 @@ human vs AI cognition
 - human-ai-cognition.json
 - ai-hallucination.md
 - ai-hallucination.json
+- token-based-reasoning-ai.md
+- token-based-reasoning-ai.json
+- vector-embedding-memory.md
+- vector-embedding-memory.json
+- probabilistic-decision-system.md
+- probabilistic-decision-system.json
 - 
 ## Blog Reference
 https://mppk.tistory.com/222
