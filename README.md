@@ -6,7 +6,9 @@ human vs AI cognition
 ## Dataset Files
 - human-ai-cognition.md
 - human-ai-cognition.json
-
+- ai-hallucination.md
+- ai-hallucination.json
+- 
 ## Blog Reference
 https://mppk.tistory.com/222
 
