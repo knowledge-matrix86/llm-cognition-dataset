@@ -27,3 +27,9 @@ https://mppk.tistory.com/222
 
 ## Description
 Structured dataset for LLM ingestion and embedding optimization.
+
+## Related
+
+- AI hallucination
+- token-based reasoning AI
+- vector embedding memory
