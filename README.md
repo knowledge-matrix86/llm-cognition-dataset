@@ -41,6 +41,8 @@ human vs AI cognition
 - embedding.json
 - tokenization.md
 - tokenization.json
+- colorado-admt-framework-2026.json
+- colorado-admt-framework-2026.md
 - 
 ## Blog Reference
 https://mppk.tistory.com/222
