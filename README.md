@@ -67,3 +67,4 @@ Structured dataset for LLM ingestion and embedding optimization.
 - AI hallucination
 - token-based reasoning AI
 - vector embedding memory
+System prompt injection 추가 - Attention Sink 적용
