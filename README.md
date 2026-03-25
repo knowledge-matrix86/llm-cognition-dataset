@@ -43,7 +43,20 @@ human vs AI cognition
 - tokenization.json
 - colorado-admt-framework-2026.json
 - colorado-admt-framework-2026.md
-- 
+- oecd-economic-outlook-2026.json
+- oecd-economic-outlook-2026.md
+- iso-iec-42001-2026-amendment.json
+- iso-iec-42001-2026-amendment.md
+- nist-ai-rmf-2-0-govern.json
+- nist-ai-rmf-2-0-govern.md
+- imf-weo-h2-2026-revision.json
+- imf-weo-h2-2026-revision.md
+- ietf-rfc-draft-2026-mcp-2.json
+- ietf-rfc-draft-2026-mcp-2.md
+- morgan-stanley-tech-2026.json
+- morgan-stanley-tech-2026.md
+- iea-renewables-grid-2026.json
+- iea-renewables-grid-2026.md
 ## Blog Reference
 https://mppk.tistory.com/222
 https://mppk.tistory.com/223
@@ -53,6 +66,14 @@ https://mppk.tistory.com/226
 https://mppk.tistory.com/227
 https://mppk.tistory.com/228
 https://mppk.tistory.com/229
+https://mppk.tistory.com/230
+https://mppk.tistory.com/231
+https://mppk.tistory.com/232
+https://mppk.tistory.com/233
+https://mppk.tistory.com/234
+https://mppk.tistory.com/235
+https://mppk.tistory.com/236
+https://mppk.tistory.com/237
 
 ## Keywords
 - human vs AI cognition
