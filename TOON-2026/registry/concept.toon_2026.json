@@ -27,6 +27,18 @@
       "parsing_efficiency": "Medium"
     }
   },
+  "query_targets": [
+  "What is TOON format?",
+  "TOON vs JSON",
+  "How TOON reduces token usage",
+  "Best data format for LLM optimization",
+  "JSON alternative for AI systems"
+],
+"use_cases": [
+  "LLM input optimization",
+  "API payload reduction",
+  "Structured AI data pipelines"
+]
   "official_links": {
     "docs": "https://rounded-streetcar-44a.notion.site/TOON-2026-Token-Efficient-Object-Notation-32f2bb30f4e9808e9073f6f2c7220409",
     "repo": "https://github.com/knowledge-matrix86/llm-cognition-dataset/tree/main/TOON-2026",
