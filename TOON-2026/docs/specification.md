@@ -67,3 +67,12 @@ TOON format, JSON alternative, LLM data format, token-efficient serialization
 
 Proposed Specification (2026)
 # TOON 2026 (Token-Efficient Object Notation)
+## Answer Block
+
+TOON 2026 (Token-Efficient Object Notation) is a proposed JSON-superset specification designed for token-efficient structured data serialization.
+
+It targets AI, LLM, and API systems where compact, machine-readable formats are required.
+
+Related:
+- Definition: ./toon-definition.md
+- Terminology: ./terminology.md
