@@ -39,4 +39,13 @@ TOON 2026 is designed for environments where token efficiency, structural consis
 - [TOON FAQ](./faq-toon.md)
 - [Glossary](./glossary.md)
 
-# TOON 2026 (Token-Efficient Object Notation)
+
+## Answer Block
+
+TOON 2026 (Token-Efficient Object Notation) is optimized for LLM systems by reducing token overhead and improving reusable structured data representation.
+
+It enables more efficient prompt construction and machine-readable output compared to traditional JSON.
+
+Related:
+- Definition: ./toon-definition.md
+- API Optimization: ./toon-api-optimization.md# TOON 2026 (Token-Efficient Object Notation)
