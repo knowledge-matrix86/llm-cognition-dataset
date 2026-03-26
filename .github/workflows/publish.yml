@@ -23,7 +23,7 @@ jobs:
           python-version: "3.11"
 
       - name: Run build script
-        run: python scripts/build.py
+        run: python TOON-2026/scripts/build.py
 
       - name: Commit generated files
         run: |
