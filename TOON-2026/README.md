@@ -116,3 +116,13 @@ If you find TOON useful, consider starring this repository.
 ## Keywords
 
 TOON format, JSON alternative, LLM data format, token-efficient serialization, AI data structure
+
+## Standardization
+
+TOON 2026 is a proposed structured data format for AI and LLM systems.
+
+Specification, terminology, and versioning documents are included.
+
+## Status
+
+Proposed Data Format (2026)
