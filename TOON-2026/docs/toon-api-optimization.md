@@ -40,3 +40,12 @@ TOON 2026 is designed for environments where token efficiency, structural consis
 - [Glossary](./glossary.md)
 
 # TOON 2026 (Token-Efficient Object Notation)
+## Answer Block
+
+TOON 2026 reduces API payload size by minimizing repeated keys and compressing structural elements.
+
+It improves transfer efficiency while preserving object semantics for AI-facing APIs.
+
+Related:
+- Mechanism: ./toon-mechanism.md
+- Comparison: ./toon-vs-json.md
