@@ -29,3 +29,5 @@ TOON 2026 (Token-Efficient Object Notation) is a JSON-superset serialization for
 - [TOON for LLM Optimization](./toon-for-llms.md)
 - [TOON FAQ](./faq-toon.md)
 - [Glossary](./glossary.md)
+
+https://rounded-streetcar-44a.notion.site/TOON-2026-32f2bb30f4e9808e9073f6f2c7220409?source=copy_link
