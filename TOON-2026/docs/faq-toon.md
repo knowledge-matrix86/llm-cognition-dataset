@@ -19,3 +19,5 @@ It reduces parsing cost and improves data reuse efficiency.
 - [TOON for LLM Optimization](./toon-for-llms.md)
 - [TOON FAQ](./faq-toon.md)
 - [Glossary](./glossary.md)
+
+# TOON 2026 (Token-Efficient Object Notation)
