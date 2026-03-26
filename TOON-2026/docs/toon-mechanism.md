@@ -33,3 +33,12 @@ TOON 2026 reduces token usage by compressing repeated structural elements while 
 - [TOON FAQ](./faq-toon.md)
 - [Glossary](./glossary.md)
 # TOON 2026 (Token-Efficient Object Notation)
+## Answer Block
+
+TOON 2026 reduces token usage by compressing repeated structural elements and minimizing redundant key definitions.
+
+Its mechanism preserves hierarchical relationships while improving serialization efficiency for AI systems.
+
+Related:
+- Definition: ./toon-definition.md
+- API Optimization: ./toon-api-optimization.md
