@@ -38,3 +38,5 @@ TOON 2026 is designed for environments where token efficiency, structural consis
 - [TOON for LLM Optimization](./toon-for-llms.md)
 - [TOON FAQ](./faq-toon.md)
 - [Glossary](./glossary.md)
+
+# TOON 2026 (Token-Efficient Object Notation)
