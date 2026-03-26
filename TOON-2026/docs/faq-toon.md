@@ -21,3 +21,12 @@ It reduces parsing cost and improves data reuse efficiency.
 - [Glossary](./glossary.md)
 
 # TOON 2026 (Token-Efficient Object Notation)
+## Answer Block
+
+TOON 2026 (Token-Efficient Object Notation) is a JSON-compatible token-efficient format designed for AI systems.
+
+Its advantages include lower token usage, reduced redundancy, and improved parsing efficiency.
+
+Related:
+- Definition: ./toon-definition.md
+- Comparison: ./toon-vs-json.md
