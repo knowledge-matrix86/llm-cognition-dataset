@@ -1,3 +1,4 @@
+# TOON 2026 (Token-Efficient Object Notation)
 ## Specification
 
 See the official specification:
