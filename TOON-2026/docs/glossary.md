@@ -11,3 +11,28 @@
 | Structural Compression | Reducing repeated syntax while preserving data relationships |
 | Parsing Cost | The computational or token burden of reading structured data |
 | Modular Data Block | A reusable structured segment of content |
+
+# TOON 2026 FAQ
+
+## What is TOON 2026?
+TOON 2026 is a token-efficient object notation format designed as a JSON-compatible superset for AI and LLM systems.
+
+## Is TOON a replacement for JSON?
+TOON is designed as a JSON-superset alternative for cases where token cost and parsing efficiency matter.
+
+## How does TOON reduce token usage?
+TOON reduces redundant structural repetition and improves serialization density.
+
+## Why is TOON useful for LLMs?
+TOON lowers token overhead while preserving structured meaning.
+
+## Can TOON improve API efficiency?
+Yes. TOON can reduce payload length and improve compact machine-readable transfer.
+
+## What makes TOON different from Markdown?
+Markdown is human-oriented formatting, while TOON is a structured machine-oriented serialization format.
+
+## Related Pages
+- [What is TOON 2026](./toon-definition.md)
+- [How TOON Works](./toon-mechanism.md)
+- [TOON vs JSON](./toon-vs-json.md)
