@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>TOON 2026 (Token-Efficient Object Notation) Updates</title>
+    <link>https://github.com/knowledge-matrix86/llm-cognition-dataset/tree/main/TOON-2026</link>
+    <description>A JSON-superset data serialization format designed to reduce token usage and improve parsing efficiency for AI and LLM systems.</description>
+    <item>
+      <title>TOON 2026 (Token-Efficient Object Notation) Definition</title>
+      <link>https://rounded-streetcar-44a.notion.site/TOON-2026-Token-Efficient-Object-Notation-32f2bb30f4e9808e9073f6f2c7220409</link>
+      <description>A JSON-superset data serialization format designed to reduce token usage and improve parsing efficiency for AI and LLM systems.</description>
+    </item>
+  </channel>
+</rss>

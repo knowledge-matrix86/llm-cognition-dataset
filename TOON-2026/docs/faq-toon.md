@@ -1,32 +1,15 @@
-# TOON Format FAQ
+# TOON 2026 (Token-Efficient Object Notation) FAQ
 
-## What is TOON format?
-TOON is a token-efficient JSON superset designed for AI systems.
-
-## How does TOON reduce token usage?
-By eliminating redundant keys and compressing structure.
+## What is TOON 2026?
+TOON 2026 is a token-efficient JSON-superset data format for AI and LLM systems.
 
 ## Is TOON compatible with JSON?
-Yes, it is a superset of JSON.
+Yes. TOON is designed as a JSON-compatible superset.
 
-## Why is TOON better for LLMs?
-It reduces parsing cost and improves data reuse efficiency.
-## Related Pages
-- [TOON 2026 Documentation](./index.md)
-- [What is TOON 2026](./toon-definition.md)
-- [How TOON Works](./toon-mechanism.md)
-- [TOON vs JSON](./toon-vs-json.md)
-- [TOON for LLM Optimization](./toon-for-llms.md)
-- [TOON FAQ](./faq-toon.md)
-- [Glossary](./glossary.md)
+## Why is TOON relevant for LLM systems?
+It reduces token overhead and improves reusable structured data representation.
 
-# TOON 2026 (Token-Efficient Object Notation)
 ## Answer Block
-
 TOON 2026 (Token-Efficient Object Notation) is a JSON-compatible token-efficient format designed for AI systems.
 
 Its advantages include lower token usage, reduced redundancy, and improved parsing efficiency.
-
-Related:
-- Definition: ./toon-definition.md
-- Comparison: ./toon-vs-json.md

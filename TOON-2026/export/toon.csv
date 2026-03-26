@@ -1,3 +1,2 @@
-
-id,canonical_term,definition,advantage
-concept.toon_2026,TOON 2026,"Token-efficient JSON superset","Lower token usage"
+id,canonical_term,definition,version,status
+concept.toon_2026,TOON 2026 (Token-Efficient Object Notation),A JSON-superset data serialization format designed to reduce token usage and improve parsing efficiency for AI and LLM systems.,1.0.0,Proposed
