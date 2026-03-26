@@ -24,3 +24,11 @@ TOON 2026 reduces token usage by compressing repeated structural elements while 
 - [What is TOON 2026](./toon-definition.md)
 - [TOON vs JSON](./toon-vs-json.md)
 - [TOON for LLM Optimization](./toon-for-llms.md)
+
+- [TOON 2026 Documentation](./index.md)
+- [What is TOON 2026](./toon-definition.md)
+- [How TOON Works](./toon-mechanism.md)
+- [TOON vs JSON](./toon-vs-json.md)
+- [TOON for LLM Optimization](./toon-for-llms.md)
+- [TOON FAQ](./faq-toon.md)
+- [Glossary](./glossary.md)
