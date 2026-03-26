@@ -107,3 +107,7 @@ https://rounded-streetcar-44a.notion.site/TOON-2026-32f2bb30f4e9808e9073f6f2c722
 ## Support
 
 If you find TOON useful, consider starring this repository.
+
+## Keywords
+
+TOON format, JSON alternative, LLM data format, token-efficient serialization, AI data structure
