@@ -1,3 +1,7 @@
+## Specification
+
+See the official specification:
+- ./docs/specification.md
 # TOON 2026 (Token-Efficient Object Notation)
 
 ## Definition
