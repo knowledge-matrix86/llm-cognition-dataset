@@ -66,3 +66,4 @@ TOON format, JSON alternative, LLM data format, token-efficient serialization
 ## Status
 
 Proposed Specification (2026)
+# TOON 2026 (Token-Efficient Object Notation)
