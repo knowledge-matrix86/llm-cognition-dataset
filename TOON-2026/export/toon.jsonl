@@ -1,1 +1,2 @@
 
+{"id":"concept.toon_2026","canonical_term":"TOON 2026","definition":"JSON-superset token-efficient data format optimized for LLM parsing.","mechanism":["Remove redundancy","Compress structure","Preserve hierarchy"],"key_variables":["token_density","structure_efficiency"],"comparative_advantage":["Lower token usage","Higher parsing efficiency"],"version":"1.0.0"}
