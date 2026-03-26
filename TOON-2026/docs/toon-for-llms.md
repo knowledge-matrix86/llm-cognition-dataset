@@ -30,3 +30,11 @@ TOON 2026 is designed for environments where token efficiency, structural consis
 - [How TOON Works](./toon-mechanism.md)
 - [TOON vs JSON](./toon-vs-json.md)
 - [TOON FAQ](./faq-toon.md)
+
+- [TOON 2026 Documentation](./index.md)
+- [What is TOON 2026](./toon-definition.md)
+- [How TOON Works](./toon-mechanism.md)
+- [TOON vs JSON](./toon-vs-json.md)
+- [TOON for LLM Optimization](./toon-for-llms.md)
+- [TOON FAQ](./faq-toon.md)
+- [Glossary](./glossary.md)
